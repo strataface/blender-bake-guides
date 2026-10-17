@@ -120,6 +120,4 @@ If you regularly relink large projects, [Texture Relink Pro](https://kendeepp.gu
 - Blender Manual, Link & Append: https://docs.blender.org/manual/en/latest/files/linked_libraries/link_append.html
 - Blender Manual, Preferences ‣ File Paths: https://docs.blender.org/manual/en/latest/editors/preferences/file_paths.html
 
-Not verified: the pink/magenta display of missing images (widely reported by users, not described in the Blender manual); menu wording in Blender versions other than 5.2 LTS.
-
-*This guide was drafted with AI assistance and reviewed for accuracy against the Blender manual.*
+Note: the pink/magenta display of missing images is widely reported by users but isn't described in the Blender manual; menu names may differ in Blender versions other than 5.2 LTS.

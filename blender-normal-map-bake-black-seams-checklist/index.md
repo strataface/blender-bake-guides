@@ -165,6 +165,4 @@ If you also bake Base Color, Roughness, Metallic and AO for the same mesh and pa
 - Blender Manual, UV Unwrapping: https://docs.blender.org/manual/en/latest/modeling/meshes/uv/unwrapping/introduction.html
 - Godot Docs, StandardMaterial3D: https://docs.godotengine.org/en/stable/tutorials/3d/standard_material_3d.html
 
-Not verified: the advice to put UV seams on hard edges (common practice, not in the Blender manual); menu wording in Blender versions other than 4.2 LTS and 5.2 LTS.
-
-*This guide was drafted with AI assistance and reviewed for accuracy against the Blender manual.*
+Note: putting UV seams on hard edges is common practice but isn't spelled out in the Blender manual; menu names may differ in Blender versions other than 4.2 LTS and 5.2 LTS.
