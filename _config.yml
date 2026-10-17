@@ -1,0 +1,11 @@
+title: Blender Bake Guides
+description: Practical, manual-sourced troubleshooting checklists for baking and texturing in Blender.
+url: https://strataface.github.io
+baseurl: /blender-bake-guides
+theme: minima
+# Search Console: to verify via meta tag instead of an HTML file, uncomment and paste the token.
+# minima renders this as <meta name="google-site-verification"> only if the theme supports it;
+# the HTML-file method (see README) works regardless of theme.
+# google_site_verification: "PASTE_TOKEN_HERE"
+exclude:
+  - README.md
