@@ -132,7 +132,7 @@ Source: [Topbar ‣ File ‣ External Data](https://docs.blender.org/manual/en/l
 
 ## If this happens on every project
 
-[Texture Relink Pro](https://kendeepp.gumroad.com/l/tszcyh?utm_source=seo&utm_campaign=findmissing) ($12) is a Blender add-on for exactly these cases. According to its product page:
+[Texture Relink Pro](https://kendeepp.gumroad.com/l/tszcyh?utm_source=seo&utm_medium=referral&utm_campaign=findmissing) ($12) is a Blender add-on for exactly these cases. According to its product page:
 
 - It relinks missing images from a folder you choose, with sub-folders optional.
 - It finds names that differ only in **case**, and **equivalent extensions** (.jpg/.jpeg/.jpe, .tif/.tiff, then the same name with another image extension). You can switch this off to accept exact names only.

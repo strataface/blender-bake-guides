@@ -119,7 +119,7 @@ Source: [Crashes](https://docs.blender.org/manual/en/latest/troubleshooting/cras
 
 ## If you bake the same maps for every asset
 
-[ReliaBake](https://kendeepp.gumroad.com/l/srttm?utm_source=seo&utm_campaign=bakecrash) ($19) is a Blender add-on built around steps 6 and 7. According to its product page:
+[ReliaBake](https://kendeepp.gumroad.com/l/srttm?utm_source=seo&utm_medium=referral&utm_campaign=bakecrash) ($19) is a Blender add-on built around steps 6 and 7. According to its product page:
 
 - It runs every map in its own background Blender process from a temporary copy of your .blend, so the file you have open isn't modified.
 - Each job has a timeout (automatic: 3× an estimate, at least 60 s, or a value you set). A job that runs over is killed, and the remaining maps keep baking.
